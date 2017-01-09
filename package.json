@@ -1,0 +1,17 @@
+{
+  "name": "humanize-age",
+  "version": "1.0.0",
+  "description": "Convert differences of dates into human-readable strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "humanize",
+    "age",
+    "years",
+    "date"
+  ],
+  "author": "kcrt <kcrt@kcrt.net> (http://profile.kcrt.net/)",
+  "license": "MIT"
+}
